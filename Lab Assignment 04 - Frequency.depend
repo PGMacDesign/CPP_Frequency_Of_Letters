@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1385368582 source:g:\programming\c++ programming\lab assignment 04 - frequency\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+
